@@ -24,8 +24,8 @@ A full-stack doctor appointment platform built with the **MERN** stack, enabling
 
 ## 🌐 Live Demo
 
-[🔗 Live Application](https://doctorappointmentbooking-m1os.onrender.com/)
-[📁 GitHub Repository](https://github.com/CodeSmith18/doctorAppointmentBooking)
+[🔗 Live Application]https://doctorappointmentbooking-m1os.onrender.com/
+[📁 GitHub Repository](https://github.com/Co-ctrl-hash/doctorappointmentbooking)
 
 
 
@@ -59,8 +59,9 @@ doctor-booking-platform/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/CodeSmith18/doctor-booking-platform.git
-cd doctor-booking-platform
+git clone git@github.com:Co-ctrl-hash/doctorappointmentbooking.git
+cd doctorappointmentbooking
+
 ```
 
 ### 2. Backend Setup
@@ -121,25 +122,16 @@ npm run dev
 Contributions are welcome!
 If you find a bug or want to contribute a feature, feel free to fork the repo and submit a pull request.
 
----
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
 ## 👤 Authors
 
-**Ritik Raj**
-📧 [ritikraj1875@gmail.com](mailto:ritikraj1875@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/ritik-raj1875)
-🐙 [GitHub](https://github.com/CodeSmith18)
-
-**Vaibhav Kumar Gupta**
-📧 [btech10048.22@bitmesra.ac.in](mailto:btech10048.22@bitmesra.ac.in)
-🔗 [LinkedIn]([https://www.linkedin.com/in/vaibhav-gupta](https://www.linkedin.com/in/vaibhav-gupta-9b03a7270/))
-🐙 [GitHub](https://github.com/your-vaibhav-github)
+**Harsh Deep**
+📧 [btech10920.22@bitmesra.ac.in](mailto:btech10920.22@bitmesra.ac.in)
+🔗 [LinkedIn](https://www.linkedin.com/in/harsh-deep-a2b104264/)
+🐙 [GitHub](https://github.com/Co-ctrl-hash)
 
 ---
 
